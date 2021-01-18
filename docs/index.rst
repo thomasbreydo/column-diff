@@ -1,6 +1,6 @@
-pynetworks
+column-diff
 ==========
-Welcome to **pynetworks**'s documentation!
+Welcome to **column-diff**'s documentation!
 
 .. toctree::
     :caption: Quick Start

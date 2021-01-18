@@ -1,8 +1,7 @@
-from pandas import DataFrame, Series
-
-from column_diff import __version__
-from column_diff import blacklist
 import pandas as pd
+from pandas import DataFrame
+
+from column_diff import blacklist
 
 
 def test_blacklist():

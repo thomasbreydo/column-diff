@@ -44,10 +44,10 @@ def filter_file(
     """Apply :meth:`blacklist` to `input_path` and save the output.
 
     Args:
-        input_path: path to file with the first two columns poetry
+        input_path: Path to file with the first two columns poetry.
         column: Column number from which to take values.
         blacklist_column: Column number to use as blacklist_column.
-        output_path: path to save output (:code:`"filtered_{input_filename}"`
+        output_path: Path to save output (:code:`"filtered_{input_filename}"`
             if not specified).
     """
     if output_path is None:

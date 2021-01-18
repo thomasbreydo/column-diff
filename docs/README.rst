@@ -18,3 +18,8 @@ Example Usage
     filter_file("input.xlsx")
     filter_file("input.xlsx", blacklist_column=3)
 
+Full Documentation
+==================
+
+Find the full documentation `here <https://pynetworks.readthedocs.io/en/latest/>`_.
+
